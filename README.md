@@ -1,17 +1,17 @@
 # Hi there, I'm Shobika Dhanapal! 👋👩‍💻
 
-[cite_start]I am a detail-oriented **Software Developer** and Computer Science graduate with hands-on experience building responsive, user-centric web applications from concept to deployment[cite: 4, 5, 21]. [cite_start]Currently engineered to deliver high-performance software solution environments[cite: 6, 9].
+I am a detail-oriented **Software Developer** and Computer Science graduate with hands-on experience building responsive, user-centric web applications from concept to deployment. Currently engineered to deliver high-performance software solution environments.
 
 ---
 
 ## 💼 Professional Experience
 
-- **Software Developer** | [cite_start]**VNM Hitech Solutions Pvt Ltd** *(Nov 2025 – Present)* [cite: 9]
-  - [cite_start]Developing full-stack applications using React, JavaScript, and modern backend architectures[cite: 9].
-  - [cite_start]Designing data integration pipelines via APIs to maximize platforms' runtime performance and UI responsiveness[cite: 10].
+- **Software Developer** | [cite_start]**VNM Hitech Solutions Pvt Ltd** *(Nov 2025 – Present)* 
+  - [cite_start]Developing full-stack applications using React, JavaScript, and modern backend architectures.
+  - [cite_start]Designing data integration pipelines via APIs to maximize platforms' runtime performance and UI responsiveness.
 
-- **Fullstack Developer Intern** | [cite_start]**Pinesphere Solution Pvt Ltd** *(Jan 2025 – Jul 2025)* [cite: 11]
-  - [cite_start]Engineered modular full-stack feature components using React, JavaScript, and Python ecosystems[cite: 11].
+- **Fullstack Developer Intern** | [cite_start]**Pinesphere Solution Pvt Ltd** *(Jan 2025 – Jul 2025)* 
+  - [cite_start]Engineered modular full-stack feature components using React, JavaScript, and Python ecosystems.
   - [cite_start]Structured and integrated secure RESTful APIs to maintain seamless client-server communications[cite: 12].
   - [cite_start]Enhanced responsive UI/UX features working within collaborative, high-velocity Agile frameworks[cite: 13].
 
